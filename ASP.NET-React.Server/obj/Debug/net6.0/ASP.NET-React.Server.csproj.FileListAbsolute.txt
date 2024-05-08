@@ -91,3 +91,4 @@ C:\Websites\ASP.NET-React\ASP.NET-React.Server\bin\Debug\net6.0\System.Text.Json
 C:\Websites\ASP.NET-React\ASP.NET-React.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Websites\ASP.NET-React\asp.net-react.server\bin\Debug\net6.0\System.Web.Cors.dll
 C:\Websites\ASP.NET-React\asp.net-react.server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Websites\ASP.NET-React\asp.net-react.server\obj\Debug\net6.0\ASP.NET-React.Server.sourcelink.json

@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:5173",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Websites\\ASP.NET-React\\ASP.NET-React.Server\\..\\asp.net-react.client",
+"WorkingDirectory": "C:\\Websites\\ASP.NET-React\\asp.net-react.server\\..\\asp.net-react.client",
 "MaxTimeoutInSeconds": "120"
 }
 }

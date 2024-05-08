@@ -13,7 +13,8 @@ interface Employees {
     street_address:	string,
     city:	string,
     postal_code:string,
-    country:	string
+    country: string,
+    user: Users
 }
 
 interface Users {
@@ -75,6 +76,8 @@ function App() {
     async function populateEmployeeData() {
         await axios.get('Employee', options)
             .then(function (response) {
+
+                console.log(response)
                 setEmployees(response.data)
             })
             .catch(function (err) {
@@ -87,7 +90,6 @@ function App() {
         await axios.get('User', options)
             .then(function (response) {
 
-                console.log(response)
                 setUsers(response.data)
             })
             .catch(function (err) {
