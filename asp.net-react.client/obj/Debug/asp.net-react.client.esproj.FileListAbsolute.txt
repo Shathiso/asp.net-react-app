@@ -1,0 +1,1 @@
+C:\Websites\ASP.NET-React\asp.net-react.client\obj\Debug\asp.net-react.client.esproj.CoreCompileInputs.cache
